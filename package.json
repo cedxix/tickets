@@ -1,0 +1,30 @@
+{
+  "name": "tickets",
+  "version": "0.0.1",
+  "description": "REST Api for Privilege ticketing app",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/cedxix/tickets.git"
+  },
+  "keywords": [
+    "api",
+    "nodejs"
+  ],
+  "author": "Cedric D. ANIDIE",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cedxix/tickets/issues"
+  },
+  "homepage": "https://github.com/cedxix/tickets#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  },
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0"
+  }
+}
